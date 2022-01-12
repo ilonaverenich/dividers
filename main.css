@@ -35,6 +35,7 @@ body {
 }
 
 .input {
+
    width: 140px;
    height: 30px;
    text-align: center;
@@ -42,12 +43,13 @@ body {
 }
 
 .button {
+
    height: 30px;
    padding: 0 10px;
    text-align: center;
    border-radius: 5px;
    background: rgb(128, 191, 250);
-   box-shadow: 1px 2px 1px rgb(12, 28, 175);
+
 }
 
 .button:hover {
