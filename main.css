@@ -43,21 +43,24 @@ body {
 
 .button {
    height: 30px;
-
+   padding: 0 10px;
+   text-align: center;
    border-radius: 5px;
-   background: rgb(52, 146, 235);
+   background: rgb(128, 191, 250);
+   box-shadow: 1px 2px 1px rgb(12, 28, 175);
 }
 
 .button:hover {
-   background: rgb(235, 132, 91);
-   box-shadow: 1px 2px 14px rgb(255, 255, 255);
+   background: rgb(91, 189, 235);
+   box-shadow: 1px 2px 1px rgb(40, 121, 214);
+   color: white;
 }
 
 .inputValue {
    margin-top: 30px;
    width: 200px;
    height: 150px;
-   color: rgb(35, 60, 129);
+   color: rgb(5, 8, 163);
    font-size: 20px;
    font-weight: bold;
 
